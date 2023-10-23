@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1v5y6Wt/1JPHd8QTg36CDJ4EffMATdAFhJK6Q0k+uaDuPtKzNQ9Nxptr7ziPqNaXbrkhwvWXKtNB5DGznA07g==",
+  "success": true,
+  "projectFilePath": "/Users/sergio/Documents/Coding/Projects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergio/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/sergio/.nuget/packages/skiasharp/2.88.0/skiasharp.2.88.0.nupkg.sha512",
+    "/Users/sergio/.nuget/packages/skiasharp.nativeassets.macos/2.88.0/skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "/Users/sergio/.nuget/packages/skiasharp.nativeassets.win32/2.88.0/skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "/Users/sergio/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
